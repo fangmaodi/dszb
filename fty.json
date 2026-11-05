@@ -880,7 +880,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://raw.giteeusercontent.com/maodifang/iptv/raw/main/IPTV.txt?signature=MRKl3Umr20ibFhJKV2UA-0I5D9pGO6aaVMRULKcKrRKU1lDzyLw64alDfbF3p0A8jKJ4M6_Qj0BUht75X1wRgppbKXEH4wwr0lDE_kSFFnj2bddx2LRkLP5Q_dQjgCLLQi8z0tn1WbwpJyuL5wpLGjFfOhYz8PK-ZrhHwe5_nNtwh5Cu30VC84ieisHcvfPmRxBN5NVQ3RpMlF8BxfLji1kgSfbxGzUScvyRCCLFsHiVgmSDuwqrzKLJ6dg_xw2k23pRKRlIOgujZOnlFyc2jyLMf587Bg%3D%3D",
+      "url": "./lib/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
